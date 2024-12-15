@@ -91,3 +91,6 @@ seaborn,
 matplotlib, 
 scikit-learn
 
+### Créditos
+Este proyecto fue desarrollado como parte del Problem Set 2 en la materia Machine Learning de la Maestría en Economía de la UNLP, bajo la dirección del profesor Ignacio Sarmiento Barbieri.
+
