@@ -23,7 +23,7 @@ Contiene un archivo PDF (report.pdf) que documenta todo el proceso, incluyendo l
 Consulta este archivo para obtener un resumen completo del proyecto sin necesidad de ejecutar el código.
 
 ## 2. scripts
-1_Working_data.ipynb
+1_Working_data.ipynb:
 Contiene los pasos iniciales de procesamiento y limpieza de datos:
 
 Carga de datos: Lectura y combinación de datasets individuales y de hogares.
@@ -34,7 +34,7 @@ Indicadores de proporciones relativas como mayoria_infancia y gen_relativo.
 Transformaciones logarítmicas de variables de ingresos.
 Exportación de datasets finales: train_set_final.csv y test_set_final.csv.
 
-2_analisis.ipynb
+2_analisis.ipynb:
 Implementa modelos de predicción del ingreso per cápita y clasificación de hogares pobres:
 
 Análisis Descriptivo:
@@ -85,9 +85,9 @@ Ejecuta las celdas en orden para reproducir los resultados:
 ### Requisitos
 - Python 3.8 o superior
 - Librerías:
-pandas
-numpy
-seaborn
-matplotlib
+pandas, 
+numpy, 
+seaborn, 
+matplotlib, 
 scikit-learn
-Jupyter Notebook
+
