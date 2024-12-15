@@ -1,6 +1,9 @@
-# Problem_Set_2
+# Problem Set 2 - Machine Learning
 Este repositorio contiene los materiales, scripts y resultados del Problem Set 2 de Machine Learning en la Maestría en Economía de la UNLP. El objetivo principal es predecir la pobreza a nivel de hogares en Colombia utilizando datos del DANE y la Misión para el Empalme de las Series de Empleo, Pobreza y Desigualdad (MESEP). A continuación, se detalla la estructura del repositorio y el flujo de trabajo.
 
+## Estructura del repositorio
+
+```plaintext
 Problem_Set_2/
 ├── document/
 │   └── PS2.pdf                 # Informe con la metodología, análisis y resultados
@@ -14,3 +17,4 @@ Problem_Set_2/
 │   ├── *.png                   # Gráficos con análisis descriptivos y resultados de modelos
 ├── README.md
 └── requirements.txt            # Librerías y dependencias necesarias
+```
